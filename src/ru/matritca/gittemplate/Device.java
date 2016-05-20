@@ -7,4 +7,7 @@ public class Device {
 
     public String deviceName;
 
+    public Device(String deviceName) {
+        this.deviceName = deviceName;
+    }
 }
