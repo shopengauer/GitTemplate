@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Second version");
         System.out.println("Third version");
         System.out.println("Third version");
+        System.out.println("Third version");
+        System.out.println("Third version");
     }
 }
